@@ -1,0 +1,1285 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0060)http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Welcome to Election Commission  of India </title>
+
+ 
+ 
+<!-- CSS for Tab Menu #3 -->
+<link rel="stylesheet" type="text/css" href="./Welcome to Election Commission of India_files/solidblocksmenu.css">
+
+<link rel="shortcut icon" href="http://eci.nic.in/ECI_Main1/images/Logo_ECI1.ico">
+
+ 
+<script type="text/javascript" src="./Welcome to Election Commission of India_files/chrome.js"> 
+ 
+ 
+</script>
+ 
+<script type="text/javascript"> 
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+ 
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+ 
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<style type="text/css"> 
+body,td,th
+{
+	
+	font-family: verdana, Arial, Helvetica, sans-serif ;
+	font-size:9pt;	color: #054f7d; font-weight:normal;
+}
+body {
+	
+	filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr='#000608',EndColorStr='#FFFFFF');
+	margin: 0px auto;
+	background: -webkit-gradient(linear, left top, left bottom, from(#000608), to(#FFFFFF)); /* for webkit browsers */
+	background: -moz-linear-gradient(top, #000608, #FFFFFF); /* for firefox 3.6+ */
+background-image: -o-linear-gradient(#000608,#FFFFFF); /* for Opera 11.10+ */
+background-color:#FFFFFF; /*  for non-css3 browsers */
+}
+#Table_01 {
+	text-align: left;
+}
+#Table_01 tr td table tr td {
+	font-size: 11px;
+	color: #000;
+}
+#quest
+{
+	font-size: 15px;
+	color: #aa5f45;
+	font-weight:bolder
+
+}
+
+</style>
+<link rel="stylesheet" type="text/css" href="./Welcome to Election Commission of India_files/chromestyle.css">
+ 
+<script type="text/javascript" src="./Welcome to Election Commission of India_files/chrome.js"> 
+ 
+ 
+</script>
+ 
+<link rel="stylesheet" type="text/css" href="./Welcome to Election Commission of India_files/popupmenu.css">
+ <link href="./Welcome to Election Commission of India_files/PUSHP.CSS" rel="Stylesheet">
+<script type="text/javascript" src="./Welcome to Election Commission of India_files/jquery.min.js"></script>
+ 
+<script type="text/javascript" src="./Welcome to Election Commission of India_files/popupmenu.js"> 
+ 
+ 
+ 
+</script>
+ 
+ 
+<style type="text/css"></style></head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" onload="MM_preloadImages(&#39;nav-images/home2.png&#39;,&#39;nav-images/About2.gif&#39;,&#39;nav-images/gallery2.gif&#39;,&#39;nav-images/contact2.gif&#39;,&#39;Leftmenu-Images/Citizenswrite2.jpg&#39;,&#39;Leftmenu-Images/diamondjubilee2.jpg&#39;,&#39;Leftmenu-Images/pastelection2.jpg&#39;,&#39;Leftmenu-Images/eleclawinst2.jpg&#39;,&#39;Leftmenu-Images/politiclparties2.jpg&#39;,&#39;Leftmenu-Images/library2.jpg&#39;,&#39;Leftmenu-Images/publication2.jpg&#39;,&#39;Leftmenu-Images/linksstatesceos2.jpg&#39;,&#39;Leftmenu-Images/tenders2.jpg&#39;,&#39;Leftmenu-Images/observersportal2.jpg&#39;,&#39;Leftmenu-Images/ceosporatal2.jpg&#39;,&#39;Leftmenu-Images/elecoffpage2.jpg&#39;,&#39;Leftmenu-Images/delimitation2.jpg&#39;,&#39;Leftmenu-Images/affidavitofc2.jpg&#39;,&#39;Leftmenu-Images/elecmgmtecioff2.jpg&#39;,&#39;Leftmenu-Images/bestpracices2.jpg&#39;,&#39;Leftmenu-Images/pprg2.jpg&#39;,&#39;nav-images/online-comp2.gif&#39;,&#39;Leftmenu-Images/elect_ref_prop2.jpg&#39;,&#39;Leftmenu-Images/ge2012_hover.jpg&#39;,&#39;Leftmenu-Images/ge2012h.jpg&#39;,&#39;Leftmenu-Images/ge_2012.jpg&#39;,&#39;Leftmenu-Images/future_elec_h.jpg&#39;,&#39;Leftmenu-Images/nvd_1_h.jpg&#39;,&#39;Leftmenu-Images/sveep_hover.jpg&#39;,&#39;Leftmenu-Images/iidem_hover.jpg&#39;,&#39;nav-images/OnlineVoter2.gif&#39;,&#39;nav-images/DeityAppstore2.gif&#39;,&#39;Leftmenu-Images/elec_corner2.jpg&#39;,&#39;Leftmenu-Images/GE2012_1.jpg&#39;,&#39;Leftmenu-Images/PollingMaps2.jpg&#39;,&#39;Leftmenu-Images/ElecManifesto_h.jpg&#39;,&#39;Leftmenu-Images/evm_h.jpg&#39;,&#39;Leftmenu-Images/Compendium2011_-2013_2.jpg&#39;,&#39;Leftmenu-Images/mcc_h.jpg&#39;,&#39;nav-images/FAQs3.gif&#39;,&#39;Leftmenu-Images/nominationform2.jpg&#39;)">
+<!-- <link rel="stylesheet" type="text/css" href="ddtabmenufiles/solidblocksmenu.css" /> -->
+ <link href="./Welcome to Election Commission of India_files/PUSHP.CSS" rel="STYLESHEET" type="text/css">
+
+
+<!--<LINK href="tools/eci.CSS" rel=STYLESHEET type=text/css> -->
+
+
+<ul id="popmenu1_iiidemtm" class="jqpopupmenu">
+       
+        <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">EVM &amp; VVPAT</a>
+            <ul>
+                <li><a href="http://youtu.be/O4EhxM5cNP0">New Training Video</a></li>
+                <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">PPT</a>
+                    <ul>
+                        <li><a href="http://eci.nic.in/ECI_Main/training/EVM-%20As%20on%20January,%202014.ppt">EVM</a>
+                        </li>
+
+                    </ul>
+                </li>
+
+                <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Video</a>
+                    <ul>
+                        <li><a href="http://www.youtube.com/watch?v=viUiTqApUsA&list=UU1WOMueDtnTLYUZwe3dt0yg" target="_blank">Actual Poll</a></li>
+                        <li><a href="http://www.youtube.com/watch?v=Vvaq1WVZbSM&list=UU1WOMueDtnTLYUZwe3dt0yg" target="_blank">Ballot Unit</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/EVM_VIDEO/3_Candidate_Set_Section_of_CU.mp4">Candidate Set</a></li>
+                        <li><a href="http://www.youtube.com/watch?v=gzTVugFU9eo&list=UU1WOMueDtnTLYUZwe3dt0yg" target="_blank">Counting Procedure</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/EVM_VIDEO/5_Connecting_Procedure(Rearend_of_EVM).mp4">Connecting Procedure</a></li>
+                        <li><a href="http://www.youtube.com/watch?v=56arRoGDor8&feature=c4-overview&list=UU1WOMueDtnTLYUZwe3dt0yg" target="_blank">Display of EVM</a></li>
+                        <li><a href="http://www.youtube.com/watch?v=56arRoGDor8&list=UU1WOMueDtnTLYUZwe3dt0yg" target="_blank">Features of EVM</a></li>
+                        <li><a href="http://www.youtube.com/watch?v=PPUabK3qGAU&list=UU1WOMueDtnTLYUZwe3dt0yg" target="_blank">Mock Poll</a></li>
+                        <li><a href="http://www.youtube.com/watch?v=fcaaeN-flHY&list=UU1WOMueDtnTLYUZwe3dt0yg" target="_blank">Operation of EVM</a></li>
+                        <li><a href="http://www.youtube.com/watch?v=xPZruJWE3I4&list=UU1WOMueDtnTLYUZwe3dt0yg" target="_blank">Preparation of EVM by RO</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/EVM_VIDEO/11_Result_Section.mp4">Result Section</a></li>
+                    </ul>
+
+                </li>
+
+
+            </ul>
+
+
+        </li>
+        <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Nomination Process</a>
+            <ul>
+                <li><a href="http://youtu.be/0-PXIQrc7sk">New Training Video</a>
+                </li><li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">PPT</a>
+                    <ul>
+                        <li><a href="http://eci.nic.in/ECI_Main/training/Nomination%20Process-%20As%20on%20January,%202014.ppt">Nomination Process</a>
+                        </li>
+
+                    </ul>
+                </li>
+
+                <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Video</a>
+
+                    <ul>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/NOMINATION_VIDEOS/1_Nomination.mp4" target="_self">Nomination</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/NOMINATION_VIDEOS/2_How_to_fill_Nomination_form_New.mp4">Nomination Form</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/NOMINATION_VIDEOS/3_Propsers_in_Nomination_new.mp4">Proposers</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/NOMINATION_VIDEOS/4_Procedure_for_setting_up_of_candidates_with_form_A_and_Form_B.mp4">Procedure for Candidates Setting</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/NOMINATION_VIDEOS/5_Number_of_Nomination_Papers.mp4">Number of Nomination Papers</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/NOMINATION_VIDEOS/6_Number_of_constituencies_from_which_nomination_can_be_filed.mp4">Max. No. of Constituencies</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/NOMINATION_VIDEOS/7_Authority_before_whom_nomination_paper_can_be_filed.mp4">Before whom Nomination can be Filed</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/NOMINATION_VIDEOS/8_Period_Time_and_Place_for_filing_nomination_papers.mp4">Period, Time &amp; Place</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/NOMINATION_VIDEOS/9_Who_can_present_nomination_papers.mp4">Who can Present Nomination Paper</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/NOMINATION_VIDEOS/10_Who_can_accompany_condidate.mp4">Who can Accompany Candidate</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/NOMINATION_VIDEOS/11_Security_Deposit.mp4">Security Deposit</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/NOMINATION_VIDEOS/12_Dislosure_of_Criminal_with_form26.mp4">Disclosure</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/NOMINATION_VIDEOS/14_Notice_of_nomination_everyday_with_form3A.mp4">Notice of Nominations</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/NOMINATION_VIDEOS/13_Procedure_to_received_nomination_paper.mp4">Procedures after Receiving Nomination</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Qualification &amp; Disqualification</a>
+            <ul>
+                <li>
+                    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Video</a>
+                    <ul>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Qualification_Disqualification/1_QualificationAndDisqualication.mp4">Qualification &amp; Disqualification</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Qualification_Disqualification/2_Citizanship_of_India.mp4">Citizenship of India</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Qualification_Disqualification/3_Oath_or_Affirmation.mp4">Oath &amp; Affirmation</a></li>
+                        <li><a href="http://eci.nic.in/eci_main1/videos/Training_Videos/Qualification_Disqualification/4_Age_Qualification.mp4">Age Qualifiction</a></li>
+                        <li><a href="http://eci.nic.in/eci_main1/videos/Training_Videos/Qualification_Disqualification/6_Office_of_profit_under_Government.mp4">Office of Profit under Govt.</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Qualification_Disqualification/7_Unsoundmind_or_UnDischarged_insolvent_or_Non_Citizenship.mp4">Unsoundness of Mind OR ...</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Qualification_Disqualification/8_Statutory_disqualification_with_disqualification_on_conviction.mp4">Statutory Disqualification</a></li>
+                       </ul>
+                </li>
+
+            </ul>
+        </li>
+
+        <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Scrutiny &amp; Withdrawls</a>
+            <ul>
+                 <li>
+                    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Video</a>
+
+                    <ul>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Scrutiny_of_Nomination/1_Scrutiny_intro_with_date_time_place_of_Scrutiny.mp4">Scrutiny of Nomination</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Scrutiny_of_Nomination/4_Scrutiny_Proceeding.mp4">Scrutiny Proceeding</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Scrutiny_of_Nomination/3_Who_can_be_Present_at_the_scrutiny.mp4">Who can be Present at Scrutiny</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Scrutiny_of_Nomination/5_Grounds_for_Rejection_of_Nomination_Paper.mp4">Grounds for Rejection of Nomination</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Scrutiny_of_Nomination/6_Preparation_of_Validly_Nominated_Candidate.mp4">Preparing Nominated Candidates</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Scrutiny_of_Nomination/7_Withdrawl_with_Notice_of_withdrawl(Complete).mp4">Notice of Withdrawl</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Scrutiny_of_Nomination/9_Preparation_of_list_of_Contesting_Candidate.mp4">Preparing list of Contesting Candidate</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Scrutiny_of_Nomination/10_Arrangement_of_Names_of_Candidate.mp4">Arrangement of Candidate Names</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Scrutiny_of_Nomination/11_Popular_name_of_Candidate_to_be_permitted.mp4">Popular name of Candidate</a></li>
+
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Allotment of Symbols</a>
+            <ul>
+                <li>
+                    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Video</a>
+                    <ul>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Allotment_of_sysmbols/1_Provision_for_allotment_of_sysmbols_to_contisting_candidates.mp4">Provision for Allotment of Sysmbols</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Allotment_of_sysmbols/2_Procedure_for_Allotment_of_symbols_to_contisting_candidates.mp4">Procedure for Allotment of Symbols</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/Allotment_of_sysmbols/3_Case_Studies_on_allotment_of_sysmbols.mp4">Case Studies</a></li>
+                        <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Change order Of Allotment of Symbols</a></li>
+
+                    </ul>
+                </li>
+            </ul>
+        </li>
+
+        <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Model Code of Conduct</a>
+            <ul>
+
+                <li>
+                    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Video</a>
+                    <ul>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Videos_of_PPTs/MCC_COMPLETE.mp4">Model Code of Conduct</a></li>
+
+                    </ul>
+                </li>
+            </ul>
+        </li>
+
+        <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Poll Process</a>
+            <ul>                
+                <li>
+                    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Video</a>
+
+                    <ul>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Videos_of_PPTs/Setting_of_Voting_Machine_before_Poll.mp4">Setting up of Voting Machine</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Training_Videos/EVMs_Video_in_Parts/4_Mock_Poll.mp4">Conducting Mock Poll</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Videos_of_PPTs/Commencement_of_Poll.mp4">Commencement of Poll</a></li>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Videos_of_PPTs/Clossing_of_Poll.mp4">Closing &amp; Sealing of Control Unit</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Sveep</a>
+            <ul>
+                <li>
+                    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">PPT</a>
+                    <ul>
+                        <li>
+                            <a href="http://eci.nic.in/ECI_Main/training/SVEEP%20for%20MTs.ppt">SVEEP</a>
+
+                        </li>
+
+                    </ul>
+
+                </li>
+            </ul>
+        </li>
+
+        <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Training Techique</a>
+            <ul>
+                <li>
+                    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">PPT</a>
+                    <ul>
+                        <li>
+                            <a href="http://eci.nic.in/iiidem/TM/What%20is%20master%20trainier%20and%20training%20credibility%20and%20learning%20styles.ppt">Training Technique</a>
+
+
+                        </li>
+
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">MCMC</a>
+            <ul>
+                <li>
+                    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">PPT</a>
+                    <ul>
+                        <li>
+                            <a href="http://eci.nic.in/ECI_Main/training/MCMC%20for%20field-%20As%20on%20January,%202014.ppt">MCMC for field</a>
+                        </li>
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Video</a>
+                    <ul>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Videos_of_PPT/MCMC_PPT_Video.mp4">MCMC</a></li>
+
+                    </ul>
+
+                </li>
+            </ul>
+        </li>
+        <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Paid News</a>
+            <ul>
+                <li>
+                    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">PPT</a>
+                    <ul>
+                        <li>
+                            <a href="http://eci.nic.in/ECI_Main/training/Paid%20News-%20As%20on%20January,%202014.ppt">Paid News</a>
+                        </li>
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Video</a>
+                    <ul>
+                        <li><a href="http://eci.nic.in/iiidem/videos/Videos_of_PPT/Paid_News_Video.mp4">Paid News</a></li>
+
+                    </ul>
+
+                </li>
+            </ul>
+        </li>
+        <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Election Expenditure Monitoring</a>
+            <ul>
+                <li>
+                    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">PPT</a>
+                    <ul>
+                        <li><a href="http://eci.nic.in/ECI_Main/training/Election%20Expenditure%20Monitoring-%20As%20on%20January,%202014.ppt">Election Expenditure Monitoring</a></li>
+
+                    </ul>
+
+                </li>
+            </ul>
+        </li>
+         <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Vulnerability Mapping</a>
+            <ul>
+                <li>
+                    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">PPT</a>
+                    <ul>
+                        <li><a href="http://eci.nic.in/ECI_Main/training/Vulnerability%20Mapping-%20As%20on%20January,%202014.ppt">Vulnerability Mapping</a></li>
+
+                    </ul>
+
+                </li>
+            </ul>
+        </li>
+        <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">District Election Mangement Plan</a>
+            <ul>
+                <li>
+                    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">PPT</a>
+                    <ul>
+                        <li><a href="http://eci.nic.in/ECI_Main/training/District%20Election%20Mangement%20Plan-%20As%20on%20January,%202014.ppt">District Election Mangement Plan</a></li>
+
+                    </ul>
+
+                </li>
+            </ul>
+        </li>
+        <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Videography</a>
+            <ul>
+                <li>
+                    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">PPT</a>
+                    <ul>
+                        <li><a href="http://eci.nic.in/ECI_Main/training/Videography-%20As%20on%20January,%202014.ppt">Videography</a></li>
+
+                    </ul>
+
+                </li>
+            </ul>
+        </li>
+    </ul>
+
+ 
+
+
+
+
+
+
+<ul id="popmenu1_general_election" class="jqpopupmenu">
+<li><a href="http://eci.nic.in/eci_main1/CE2013_CG.html">Chhattisgarh</a>
+</li><li><a href="http://eci.nic.in/eci_main1/CE2013_MP.html">Madhya Pradesh</a>
+</li><li><a href="http://eci.nic.in/eci_main1/CE2013_Miz.html">Mizoram</a>
+</li><li><a href="http://eci.nic.in/eci_main1/CE2013_Delhi.html">NCT of Delhi</a>
+</li><li><a href="http://eci.nic.in/eci_main1/CE2013_Raj.html">Rajasthan</a>
+
+
+
+
+       
+ 
+</li></ul>
+
+
+<ul id="popmenu1_GE2012_NewIns" class="jqpopupmenu">
+
+<li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">New Instructions</a>
+<ul>
+<li><a href="http://eci.nic.in/eci_main1/common_symbols.aspx">Order Related to Symbol Allottment</a>
+	
+</li>
+<li><a href="http://eci.nic.in/eci_main1/ins_exp_mon.aspx">Instructions on Election Expenditure</a>
+	
+</li>
+<li><a href="http://eci.nic.in/eci_main1/ins_others.aspx">Other Instructions</a>
+	
+</li>
+ 
+ <li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">State Specific Instructions</a>
+	<ul>
+	<li><a href="http://eci.nic.in/eci_main1/ins_goa.aspx" target="_self">Goa</a></li>
+	<li><a href="http://eci.nic.in/eci_main1/ins_mr.aspx" target="_self">Manipur</a></li>
+	<li><a href="http://eci.nic.in/eci_main1/ins_pub.aspx" target="_self">Punjab</a></li>
+	<li><a href="http://eci.nic.in/eci_main1/ins_ut.aspx" target="_self">Uttrakhand</a></li>
+	<li><a href="http://eci.nic.in/eci_main1/ins_up.aspx" target="_self">Uttar Pradesh</a></li>
+	</ul>
+</li>
+ 
+</ul>
+
+
+</li><li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Repoll</a>
+	<ul>
+	<li><a target="_blank" href="http://eci.nic.in/eci_main1/ge2012/ge2012repollmanipur.pdf">Manipur</a></li>
+	<li><a target="_blank" href="http://eci.nic.in/eci_main1/ge2012/ge2012repollpunjab.pdf">Punjab</a></li> 
+	<li><a target="_blank" href="http://eci.nic.in/eci_main1/ge2012/up_repoll.pdf">Uttar Pradesh</a></li> 
+	
+	</ul>
+</li>
+
+
+
+</ul>
+
+
+ 
+ 
+ 
+
+ 
+<ul id="popmenu1_Political_Parties" class="jqpopupmenu">
+<li><a href="http://eci.nic.in/eci_main1/politicalparty.aspx">Political Party</a>
+	
+</li>
+<li><a href="http://eci.nic.in/eci_main1/electionsymbols_noticies.aspx">Election Symbols</a>
+	
+</li>
+</ul>
+
+
+<ul id="popmenu1_poli_reg_gd" class="jqpopupmenu">
+
+<li><a href="http://eci.nic.in/eci_main/ElectoralLaws/guidelinesandformat.pdf"> Guidelines</a>
+</li>
+
+	
+	     <li>
+<a href="http://eci.nic.in/eci_main1/objection_politicalparty.aspx"> Public Notice regarding name of new parties
+</a>	
+ 
+		</li>
+		
+	
+
+
+
+</ul>
+
+ 
+
+<ul id="popmenu1_FAQs" class="jqpopupmenu">
+<li>Resident Electors<a href="http://eci.nic.in/eci_main/GeneralElector2122013.pdf">English</a><a href="http://eci.nic.in/eci_main/FAQS_GeneralElect15012014.pdf">/ Hindi</a></li>
+<li><a href="http://eci.nic.in/eci_main/nri/NRI_2122013.pdf" target="_blank">Overseas Electors</a></li>
+<li><a href="http://eci.nic.in/eci_main/ServiceVoter_2122013.pdf" target="_blank">Service Voters</a></li>
+
+<li><a href="http://eci.nic.in/eci_main1/evm.aspx">Electronic Voting Machines</a></li>
+
+<li><a target="blank" href="http://eci.nic.in/eci_main/nri/ROsDEOs_15102012.pdf">FAQs for ROs/DEOs</a></li>
+<li><a href="http://eci.nic.in/eci_main1/election-machinery.aspx">Election Machinery</a></li> 
+<li><a href="http://eci.nic.in/eci_main1/parliament.aspx">Parliament</a></li>
+<li><a href="http://eci.nic.in/eci_main1/delimitation_faq.aspx">Delimitation of Constituencies</a></li> 
+<li><a href="http://eci.nic.in/eci_main1/RegisterationPoliticalParties.aspx">Registration of Political Parties</a></li>
+
+
+ 
+<li><a href="http://eci.nic.in/eci_main1/Contesting.aspx">Contesting for Elections</a></li>
+<li><a href="http://eci.nic.in/eci_main1/Counting.aspx">Counting &amp; Declaration of Result</a></li>
+	
+</ul>
+ 
+ 
+	
+	
+
+	
+<!-- Save for Web Slices (layout
+	
+</li>
+</ul>
+ 
+ 
+<!-- Save for Web Slices (layout1.psd) -->
+<table width="1000" border="0" align="center" bordercolor="#79B3E1" cellspacing="0" cellpadding="0" style="margin-top: 0px"><tbody><tr> <td>
+<table id="Table_01" width="1000" border="0" cellpadding="0" cellspacing="0" topmargin="0" hspace="0" vspace="0">
+	<tbody><tr>
+		<td align="left" valign="top">
+			<img src="./Welcome to Election Commission of India_files/eci_01.jpg" width="1000" height="85" alt=""></td>
+	</tr>
+	<tr>
+		<td align="left" valign="bottom" background="./Welcome to Election Commission of India_files/eci_02.jpg" height="50"><table width="99%" border="0" align="left" cellpadding="0" cellspacing="0">
+		  <tbody><tr>
+		    <td width="113" align="left" valign="top"><a href="http://eci.nic.in/eci/eci.html" target="_self" onmouseover="MM_swapImage(&#39;navHome&#39;,&#39;&#39;,&#39;nav-images/home2.png&#39;,1)" onmouseout="MM_swapImgRestore()"><img src="./Welcome to Election Commission of India_files/home1.gif" name="navHome" width="112" height="43" border="0"></a></td>
+		    <td width="113"><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#" data-popupmenu="popmenu1_AboutECI" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;navAbout&#39;,&#39;&#39;,&#39;nav-images/About2.gif&#39;,1)"><img src="./Welcome to Election Commission of India_files/About3.gif" width="112" height="43" border="0"></a></td>
+		     <td width="113" align="left" valign="top"><a href="http://eci.nic.in/eci_main1/FAQs_25102013.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;faq&#39;,&#39;&#39;,&#39;nav-images/FAQs2.gif&#39;,1)"><img src="./Welcome to Election Commission of India_files/FAQs3.gif" name="faq" width="112" height="43" border="0"></a></td>
+		   
+		    <td width="113"><a href="http://eci.nic.in/eci_main1/audio_videoclips.aspx" target="_self" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;navGallery&#39;,&#39;&#39;,&#39;nav-images/gallery2.gif&#39;,1)"><img src="./Welcome to Election Commission of India_files/gallery3.gif" name="navGallery" width="112" height="43" border="0"></a></td>
+		    <td width="113"><a href="http://eci.nic.in/eci_main1/contactus.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;navContact&#39;,&#39;&#39;,&#39;nav-images/contact2.gif&#39;,1)"><img src="./Welcome to Election Commission of India_files/contact3.gif" name="navContact" width="112" height="43" border="0"></a></td>
+		    <td width="130" align="left" valign="top"><a href="http://www.eci-citizenservicesforofficers.nic.in/cservices/default.aspx" target="_blank" onmouseover="MM_swapImage(&#39;Image48&#39;,&#39;&#39;,&#39;nav-images/online-comp2.gif&#39;,1)" onmouseout="MM_swapImgRestore()"><img src="./Welcome to Election Commission of India_files/online-comp1.gif" name="Image48" width="130" height="43" border="0"></a></td>
+		    <td>&nbsp;</td>
+		    
+		    <td width="111" align="left" valign="top"><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#" data-popupmenu="popmenu1_CitizenServices" target="_blank" onmouseover="MM_swapImage(&#39;Image48&#39;,&#39;&#39;,&#39;nav-images/OnlineVoter2.gif&#39;,1)" onmouseout="MM_swapImgRestore()"><img src="./Welcome to Election Commission of India_files/OnlineVoter1.gif" name="Image48" width="111" height="43" border="0"></a></td>
+		   
+		    
+		    <td width="222" align="right" valign="bottom">
+		   
+
+
+<font color="#CC0000"><strong><a href="http://eci.nic.in/eci/eci.html" target="_self">New Version of Website</a></strong></font></td>
+	      </tr>
+      </tbody></table></td>
+	</tr>
+	<tr>
+		  <td><table width="1000" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><div class="chromestyle" id="chromemenu">
+<ul>
+<!--<li><a href="#" rel="dropmenu1">Voter Registration</a></li>
+<li><a href="nri.aspx">Overseas Electors</a></li>
+ -->
+<li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#" rel="dropmenu2" class="">Judicial Reference <img src="./Welcome to Election Commission of India_files/down.gif" border="0"></a></li>
+<li><a href="http://eci.nic.in/eci_main1/right-to-information.aspx">Right to Information</a></li>
+<li><a href="http://eci.nic.in/eci_main1/dj.aspx">Diamond Jubilee Celebration</a></li>
+<li><a href="http://eci.nic.in/eci_main1/nvd.aspx">National Voters' Day</a></li>
+<li><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#" rel="dropmenu3">Telephone Directories <img src="./Welcome to Election Commission of India_files/down.gif" border="0"></a></li>
+
+
+
+</ul>
+</div></td>
+  </tr>
+</tbody></table>
+</td>
+	</tr>
+	
+	<tr>
+		<td>
+			<img src="./Welcome to Election Commission of India_files/eci_05.jpg" width="1000" height="53" alt=""></td>
+	</tr>
+	<tr>
+		<td height="837" align="left" valign="top"> 
+        
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+		  <tbody><tr>
+		    <td width="310" align="center" valign="top" bgcolor="#FFFFFF"><table width="282" border="0" align="center" cellpadding="0" cellspacing="0">
+		       <tbody><tr>
+		        <td><img src="./Welcome to Election Commission of India_files/leftmenutop.jpg" width="282" height="17"></td>
+		        </tr>
+		         <tr>
+		         <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#" data-popupmenu="popmenu1_electors_corner" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;Image37&#39;,&#39;&#39;,&#39;Leftmenu-Images/elec_corner2.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/elec_corner1.jpg" name="Image37" width="282" height="28" border="0"></a></td>
+		         </tr>
+		         <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/current/forms_12032014.pdf" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;Image511&#39;,&#39;&#39;,&#39;Leftmenu-Images/nominationform2.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/nominationform1.jpg" name="Image511" width="282" height="56" border="0"></a></td>
+		        </tr>
+		         <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://psleci.nic.in/" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;Image51&#39;,&#39;&#39;,&#39;Leftmenu-Images/PollingMaps2.jpg&#39;,1)"><img src="http://eci.nic.in/eci_main1/Leftmenu-Images/PollingMaps1.jpg" name="Image51" width="282" height="56" border="0"></a></td>
+		        </tr>
+		      <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#" data-popupmenu="popmenu1_citizens_corner" target="_blank" onmouseover="MM_swapImage(&#39;menu1&#39;,&#39;&#39;,&#39;Leftmenu-Images/Citizenswrite2.jpg&#39;,1)" onmouseout="MM_swapImgRestore()"><img src="./Welcome to Election Commission of India_files/Citizenswrite1.jpg" name="menu1" width="282" height="28" border="0"></a></td>
+		        </tr>
+		
+		<tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/tm.aspx" target="_self" onmouseover="MM_swapImage(&#39;menu21&#39;,&#39;&#39;,&#39;Leftmenu-Images/tm2.jpg&#39;,1)" onmouseout="MM_swapImgRestore()"><img src="./Welcome to Election Commission of India_files/tm1.jpg" name="menu21" width="282" height="28" border="0"></a></td>
+		        </tr>
+		    
+		        
+		       
+		     <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/GE2014/ge.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;Image32&#39;,&#39;&#39;,&#39;Leftmenu-Images/GE2012_2.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/GE2012_1.jpg" name="Image32" width="282" height="28" border="0"></a></td>
+		        </tr>
+		        <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eciresults.nic.in/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;Image32&#39;,&#39;&#39;,&#39;Leftmenu-Images/ge2014h.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/ge2014.jpg" name="Image32" width="282" height="28" border="0"></a></td>
+		        </tr>
+		      <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/index_leftmenu1_0004.jpg"><a href="http://eci.nic.in/eci_main1/mcc.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;Image64&#39;,&#39;&#39;,&#39;Leftmenu-Images/mcc_h.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/mcc.jpg" name="Image64" width="282" height="28" border="0"></a></td>
+		        </tr> 
+		      
+		      <tr>
+		       <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#" data-popupmenu="popmenu1_past_elec" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;menu4&#39;,&#39;&#39;,&#39;Leftmenu-Images/pastelection2.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/pastelection1.jpg" name="menu4" width="282" height="28" border="0"></a></td>
+		        </tr>
+		        
+		        <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#" data-popupmenu="popmenu1_Affi_form20" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;menu17&#39;,&#39;&#39;,&#39;Leftmenu-Images/affidavitofc2.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/affidavitofc1.jpg" name="menu17" width="282" height="28" border="0"></a></td>
+		        </tr>
+		 <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/FutureElection.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;Image49&#39;,&#39;&#39;,&#39;Leftmenu-Images/future_elec_h.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/future_elec.jpg" name="Image49" width="282" height="28" border="0"></a></td>
+		        </tr>    
+		        
+	 <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/compIns2011-2013.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;Image490&#39;,&#39;&#39;,&#39;Leftmenu-Images/Compendium2011_-2013_2.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/Compendium2011_-2013_1.jpg" name="Image490" width="282" height="28" border="0"></a></td>
+		        </tr>  	        
+		            
+		        
+		  <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://apps.mgov.gov.in/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;Image491&#39;,&#39;&#39;,&#39;Leftmenu-Images/DeityAppstore2.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/DeityAppstore1.jpg" name="Image49" width="282" height="28" border="0"></a></td>
+		        </tr>      
+		        
+		      
+		      <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/sveep.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;sveep&#39;,&#39;&#39;,&#39;Leftmenu-Images/sveep_hover.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/sveep_1.jpg" name="sveep" width="282" height="28" border="0"></a></td>
+		        </tr>
+		      <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/iidm.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;iidem&#39;,&#39;&#39;,&#39;Leftmenu-Images/iidem_hover.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/iidem.jpg" name="iidem" width="282" height="28" border="0"></a></td>
+		        </tr>
+		      
+		      <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/international-cooperation.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;intercor&#39;,&#39;&#39;,&#39;Leftmenu-Images/intcor_h.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/intcor.jpg" name="intercor" width="282" height="28" border="0"></a></td>
+		        </tr>
+		        
+		       
+		        
+		        
+		      <tr>
+		       <td height="56" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#" data-popupmenu="popmenu1_Elec_Laws" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;menu5&#39;,&#39;&#39;,&#39;Leftmenu-Images/eleclawinst2.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/eleclawinst1.jpg" name="menu5" width="282" height="56" border="0"></a></td>
+		        </tr>
+		      <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a target="_blank" href="http://eci.nic.in/eci_main/electoral_ref.pdf" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;Image49&#39;,&#39;&#39;,&#39;Leftmenu-Images/elect_ref_prop2.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/elect_ref_prop1.jpg" name="Image49" width="282" height="28" border="0"></a></td>
+		        </tr>
+		        
+		        <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/elec_manisesto.aspx" target="_blank" onmouseover="MM_swapImage(&#39;menu19&#39;,&#39;&#39;,&#39;Leftmenu-Images/ElecManifesto_h.jpg&#39;,1)" onmouseout="MM_swapImgRestore()"><img src="./Welcome to Election Commission of India_files/ElecManifesto.jpg" name="menu191" width="282" height="28" border="0"></a></td>
+		        </tr>
+		        
+		         <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/PolPar/ListofPolParties.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;menu6&#39;,&#39;&#39;,&#39;Leftmenu-Images/politiclparties2.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/politiclparties1.jpg" name="menu6" width="282" height="28" border="0"></a></td>
+		        </tr>
+		        
+		        
+		      
+		        
+		      <tr>
+		       <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/objection_politicalparty.aspx" onmouseover="MM_swapImage(&#39;menu-pprg&#39;,&#39;&#39;,&#39;Leftmenu-Images/pprg2.jpg&#39;,1)" onmouseout="MM_swapImgRestore()"><img src="./Welcome to Election Commission of India_files/pprg1.jpg" name="menu-pprg" border="0"></a></td>
+		        </tr>
+		        
+		      <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://164.100.34.141/opac/" target="_blank" onmouseover="MM_swapImage(&#39;menu7&#39;,&#39;&#39;,&#39;Leftmenu-Images/library2.jpg&#39;,1)" onmouseout="MM_swapImgRestore()"><img src="./Welcome to Election Commission of India_files/library1.jpg" name="menu7" width="282" height="28" border="0"></a></td>
+		        </tr>
+		      <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/library_publication.aspx" target="_self" onmouseover="MM_swapImage(&#39;menu8&#39;,&#39;&#39;,&#39;Leftmenu-Images/publication2.jpg&#39;,1)" onmouseout="MM_swapImgRestore()"><img src="./Welcome to Election Commission of India_files/publication1.jpg" name="menu8" width="282" height="28" border="0"></a></td>
+		        </tr>
+				 <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/Links.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;menu9&#39;,&#39;&#39;,&#39;Leftmenu-Images/linksstatesceos2.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/linksstatesceos1.jpg" name="menu9" width="282" height="28" border="0"></a></td>
+		        </tr>
+				 <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/tender.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;menu10&#39;,&#39;&#39;,&#39;Leftmenu-Images/tenders2.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/tenders1.jpg" name="menu10" width="282" height="28" border="0"></a></td>
+		        </tr>
+		        
+		        <tr> <td> <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#" data-popupmenu="popmenu1_ByeElec" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;Image50&#39;,&#39;&#39;,&#39;Leftmenu-Images/bye_election2.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/bye_election1.jpg" name="Image50" width="282" height="28" border="0"></a></td></tr>
+		        
+		        <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/evm1.aspx" target="_blank" onmouseover="MM_swapImage(&#39;menu73&#39;,&#39;&#39;,&#39;Leftmenu-Images/evm_h.jpg&#39;,1)" onmouseout="MM_swapImgRestore()"><img src="./Welcome to Election Commission of India_files/evm.jpg" name="menu73" width="282" height="28" border="0"></a></td>
+		        </tr>
+		        
+				<tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://observerseci.nic.in/observersportal/" target="_blank" onmouseover="MM_swapImage(&#39;menu13&#39;,&#39;&#39;,&#39;Leftmenu-Images/observersportal2.jpg&#39;,1)" onmouseout="MM_swapImgRestore()"><img src="./Welcome to Election Commission of India_files/observersportal1.jpg" name="menu13" width="282" height="28" border="0"></a></td>
+		        </tr>
+				
+		        <tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/CEOPortalHome.htm" target="_blank" onmouseover="MM_swapImage(&#39;menu14&#39;,&#39;&#39;,&#39;Leftmenu-Images/ceosporatal2.jpg&#39;,1)" onmouseout="MM_swapImgRestore()"><img src="./Welcome to Election Commission of India_files/ceosporatal1.jpg" name="menu14" width="282" height="28" border="0"></a></td>
+		        </tr>
+				<tr>
+		        <td height="56" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eciofficers.nic.in/LOGIN/" target="_blank" onmouseover="MM_swapImage(&#39;menu15&#39;,&#39;&#39;,&#39;Leftmenu-Images/elecoffpage2.jpg&#39;,1)" onmouseout="MM_swapImgRestore()"><img src="./Welcome to Election Commission of India_files/elecoffpage1.jpg" name="menu15" width="282" height="56" border="0"></a></td>
+		        </tr>
+				<tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://eci.nic.in/eci_main1/delimitation.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage(&#39;menu16&#39;,&#39;&#39;,&#39;Leftmenu-Images/delimitation2.jpg&#39;,1)"><img src="./Welcome to Election Commission of India_files/delimitation1.jpg" name="menu16" width="282" height="28" border="0"></a></td>
+		        </tr>
+				
+				<tr>
+		        <td height="56" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://ecielectmgt.nic.in/" target="_blank" onmouseover="MM_swapImage(&#39;menu18&#39;,&#39;&#39;,&#39;Leftmenu-Images/elecmgmtecioff2.jpg&#39;,1)" onmouseout="MM_swapImgRestore()"><img src="./Welcome to Election Commission of India_files/elecmgmtecioff1.jpg" name="menu18" width="282" height="56" border="0"></a></td>
+		        </tr>
+				<tr>
+		        <td height="28" background="./Welcome to Election Commission of India_files/leftmenu1.jpg"><a href="http://164.100.34.138/sharingportal" target="_blank" onmouseover="MM_swapImage(&#39;menu19&#39;,&#39;&#39;,&#39;Leftmenu-Images/bestpracices2.jpg&#39;,1)" onmouseout="MM_swapImgRestore()"><img src="./Welcome to Election Commission of India_files/bestpracices1.jpg" name="menu19" width="282" height="28" border="0"></a></td>
+		        </tr>
+				
+		      <tr>
+		        <td><img src="./Welcome to Election Commission of India_files/leftmenubottom.jpg" width="282" height="22"></td>
+		        </tr>
+		      <tr>
+		        <td height="5"></td>
+		        </tr>
+		      <tr>
+		        <td><img src="./Welcome to Election Commission of India_files/leftmenutop.jpg" width="282" height="17"></td>
+		        </tr>
+		      <tr>
+		        <td background="./Welcome to Election Commission of India_files/leftmenubg.jpg"><img src="./Welcome to Election Commission of India_files/search.gif" alt="Search" hspace="10"></td>
+		        </tr>
+		      <tr>
+		        <td align="center" valign="top" background="./Welcome to Election Commission of India_files/leftmenubg.jpg"><table width="90%" border="0" align="center" cellpadding="2" cellspacing="2">
+		          <tbody><tr>
+		            
+		            
+		            
+		            <td>
+		                        
+		            <form method="get" action="http://www.google.com/search">
+
+<table border="0" cellpadding="0">
+<tbody><tr><td>
+<input type="text" name="q" size="20" maxlength="255" value="">
+<input type="submit" value="Search"></td></tr>
+<tr><td align="center" style="font-size:75%">
+<input type="checkbox" name="sitesearch" value="eci.nic.in" checked=""> search ECI website only<br>
+</td></tr></tbody></table>
+</form></td>
+		            
+		            
+		            
+		            
+		            </tr>
+		          </tbody></table></td>
+		        </tr>
+		      <tr>
+		        <td background="./Welcome to Election Commission of India_files/leftmenuline.jpg">&nbsp;</td>
+		        </tr>
+		      <tr>
+		        <td><img src="./Welcome to Election Commission of India_files/leftmenubottom.jpg" alt="" width="282" height="22"></td>
+		        </tr>
+		      <tr>
+		        <td></td>
+		        </tr>
+		        
+		         <tr>
+		        <td><img src="./Welcome to Election Commission of India_files/leftmenutop.jpg" width="282" height="17"></td>
+		        </tr>
+		      <tr>
+		        <td align="center" valign="top" background="./Welcome to Election Commission of India_files/leftmenubg.jpg"><table width="85%" border="0" align="center" cellpadding="2" cellspacing="2">
+		          <tbody><tr align="center" valign="middle">
+		            <td width="37%"><font size="-1" color="#262627"><strong>Visitor No.</strong></font></td>
+		            <td>
+		             <img src="./Welcome to Election Commission of India_files/counter.php" title="StatsCounter Hits" alt="StatsCounter Hits" border="0"></td>
+		            
+		            </tr>
+		          </tbody></table></td>
+		        </tr>
+		      <tr>
+		        <td><img src="./Welcome to Election Commission of India_files/leftmenubottom.jpg" alt="" width="282" height="22"></td>
+		        </tr>
+		        
+		        
+		      </tbody></table></td>
+		    <td width="690" align="left" valign="top" bgcolor="#FFFFFF">
+		      <table>
+		      <tbody><tr><td>
+		        
+<div id="1" class="introblock">
+       <h2 align="left">Photo Gallery- Miscellaneous Photos </h2>
+      </div>
+      <div id="c">
+        <div align="left">
+          <table width="100%" border="0">
+            <tbody><tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-16.jpg"><img src="./Welcome to Election Commission of India_files/photo-16s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-20.jpg"></a><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-71.jpg"><img src="./Welcome to Election Commission of India_files/photo-71s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-24.jpg"><img src="./Welcome to Election Commission of India_files/photo-24s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-05.jpg"><img src="./Welcome to Election Commission of India_files/photo-05s.jpg" width="150" height="133" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-06.jpg"><img src="./Welcome to Election Commission of India_files/photo-06s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-12.jpg"><img src="./Welcome to Election Commission of India_files/photo-12s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-70.jpg"><img src="./Welcome to Election Commission of India_files/photo-70s.jpg" width="150" height="120" border="0"></a><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-09.jpg"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-10.jpg"><img src="./Welcome to Election Commission of India_files/photo-10s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-11.jpg"><img src="./Welcome to Election Commission of India_files/photo-11s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-13.jpg"><img src="./Welcome to Election Commission of India_files/photo-13s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-14.jpg"><img src="./Welcome to Election Commission of India_files/photo-14s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-15.jpg"><img src="./Welcome to Election Commission of India_files/photo-15s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-17.jpg"><img src="./Welcome to Election Commission of India_files/photo-17s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-18.jpg"><img src="./Welcome to Election Commission of India_files/photo-18s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-19.jpg"><img src="./Welcome to Election Commission of India_files/photo-19s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-21.jpg"><img src="./Welcome to Election Commission of India_files/photo-21s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-22.jpg"><img src="./Welcome to Election Commission of India_files/photo-22s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-23.jpg"><img src="./Welcome to Election Commission of India_files/photo-23s.jpg" width="148" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-25.jpg"><img src="./Welcome to Election Commission of India_files/photo-25s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-26.jpg"><img src="./Welcome to Election Commission of India_files/photo-26s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-27.jpg"><img src="./Welcome to Election Commission of India_files/photo-27s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-29.jpg"><img src="./Welcome to Election Commission of India_files/photo-29s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-30.jpg"><img src="./Welcome to Election Commission of India_files/photo-30s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-31.jpg"></a><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-71.jpg"></a><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-69.jpg"><img src="./Welcome to Election Commission of India_files/photo-69s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-32.jpg"></a><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-72.jpg"><img src="./Welcome to Election Commission of India_files/photo-72s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-33.jpg"><img src="./Welcome to Election Commission of India_files/photo-33s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-35.jpg"><img src="./Welcome to Election Commission of India_files/photo-35s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-36.jpg"><img src="./Welcome to Election Commission of India_files/photo-36s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-37.jpg"><img src="./Welcome to Election Commission of India_files/photo-37s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-38.jpg"><img src="./Welcome to Election Commission of India_files/photo-38s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-39.jpg"><img src="./Welcome to Election Commission of India_files/photo-39s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-40.jpg"><img src="./Welcome to Election Commission of India_files/photo-40s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-41.jpg"><img src="./Welcome to Election Commission of India_files/photo-41s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-42.jpg"><img src="./Welcome to Election Commission of India_files/photo-42s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-43.jpg"><img src="./Welcome to Election Commission of India_files/photo-43s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-44.jpg"><img src="./Welcome to Election Commission of India_files/photo-44s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-45.jpg"><img src="./Welcome to Election Commission of India_files/photo-45s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-46.jpg"><img src="./Welcome to Election Commission of India_files/photo-46s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-48.jpg"><img src="./Welcome to Election Commission of India_files/photo-48s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-49.jpg"><img src="./Welcome to Election Commission of India_files/photo-49s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-50.jpg"><img src="./Welcome to Election Commission of India_files/photo-50s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-51.jpg"><img src="./Welcome to Election Commission of India_files/photo-51s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-52.jpg"><img src="./Welcome to Election Commission of India_files/photo-52s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-53.jpg"><img src="./Welcome to Election Commission of India_files/photo-53s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-54.jpg"><img src="./Welcome to Election Commission of India_files/photo-54s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-55.jpg"><img src="./Welcome to Election Commission of India_files/photo-55s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-56.jpg"><img src="./Welcome to Election Commission of India_files/photo-56s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-57.jpg"><img src="./Welcome to Election Commission of India_files/photo-57s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-58.jpg"><img src="./Welcome to Election Commission of India_files/photo-58s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-59.jpg"><img src="./Welcome to Election Commission of India_files/photo-59s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-60.jpg"><img src="./Welcome to Election Commission of India_files/photo-60s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-62.jpg"><img src="./Welcome to Election Commission of India_files/photo-62s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-64.jpg"><img src="./Welcome to Election Commission of India_files/photo-64s.jpg" width="150" height="120" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-65.jpg"></a><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-74.jpg"><img src="./Welcome to Election Commission of India_files/photo-74s.jpg" width="150" height="120" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-67.jpg"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-69.jpg"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-70.jpg"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-68.jpg"><img src="./Welcome to Election Commission of India_files/photo-68s.jpg" width="100" height="150" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-73.jpg"><img src="./Welcome to Election Commission of India_files/photo-73s.jpg" width="100" height="150" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-08.jpg"><img src="./Welcome to Election Commission of India_files/photo-08s.jpg" width="100" height="150" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-61.jpg"><img src="./Welcome to Election Commission of India_files/photo-61s.jpg" width="100" height="150" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-63.jpg"><img src="./Welcome to Election Commission of India_files/photo-63s.jpg" width="100" height="150" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-66.jpg"><img src="./Welcome to Election Commission of India_files/photo-66s.jpg" width="100" height="150" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-28.jpg"><img src="./Welcome to Election Commission of India_files/photo-28s.jpg" width="100" height="150" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-34.jpg"><img src="./Welcome to Election Commission of India_files/photo-34s.jpg" width="100" height="150" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-47.jpg"><img src="./Welcome to Election Commission of India_files/photo-47s.jpg" width="100" height="150" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-01.jpg"><img src="./Welcome to Election Commission of India_files/photo-01s.jpg" width="108" height="150" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-02.jpg"><img src="./Welcome to Election Commission of India_files/photo-02s.jpg" width="99" height="150" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-03.jpg"><img src="./Welcome to Election Commission of India_files/photo-03s.jpg" width="107" height="150" border="0"></a></td>
+            </tr>
+            <tr>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-04.jpg"><img src="./Welcome to Election Commission of India_files/photo-04s.jpg" width="105" height="150" border="0"></a></td>
+              <td align="center"><a class="thickbox" href="http://eci.nic.in/ECI_Main/Audio_VideoClips/gallery-images/photo-07.jpg"><img src="./Welcome to Election Commission of India_files/photo-07s.jpg" width="100" height="150" border="0"></a></td>
+              <td align="center">&nbsp;</td>
+            </tr>
+          </tbody></table>
+          <p align="center">&nbsp;</p>
+		</div>
+      </div>
+
+		      </td></tr>
+		      </tbody></table>
+		      
+		      </td>
+		    </tr>
+		  </tbody></table>
+        
+        
+        
+        
+        </td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" bgcolor="#FFFFFF"><table width="98%" border="0" cellspacing="2" cellpadding="2">
+		  <tbody><tr>
+		    <td width="21%">&nbsp;</td>
+		    <td width="8%">&nbsp;</td>
+		    <td width="15%">&nbsp;</td>
+		    <td> </td>
+		    
+		    <!--<td width="18%" align="right"><a href="javascript:mailpage()"><img src="images/email.jpg" width="152" height="42" border="0"/></a></td>-->
+		    <td width="18%" align="right"><a onclick="window.print()" ;="" href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#"><img src="./Welcome to Election Commission of India_files/printtpage.jpg" width="157" height="42" border="0"></a></td>
+		    </tr>
+		  </tbody></table></td>
+	</tr>
+	<tr>
+		<td height="42" bgcolor="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://eci.nic.in/">Home</a>&nbsp; | &nbsp;&nbsp;<a href="http://eci.nic.in/eci_main1/audio_videoclips.aspx">Gallery</a>&nbsp; 
+            | &nbsp;&nbsp;<a href="http://eci.nic.in/eci_main1/declaration.aspx">Declaration of Assets</a>&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://genesys.nic.in/" target="_blank">Genesys 
+            (ECI Election Application)</a>&nbsp; | &nbsp;&nbsp;&nbsp;<a href="http://eci.nic.in/eci_main1/misc-stats.aspx">Miscellaneous 
+            Statistics</a>
+            | &nbsp;&nbsp;&nbsp;<a href="http://webmail.eci.gov.in/" target="_blank">EC Mail Service</a> | &nbsp;&nbsp;<a href="http://eci.nic.in/eci_main1/help.aspx" target="_blank">help</a>&nbsp;&nbsp;| &nbsp;&nbsp;<a href="http://eci.nic.in/eci_main1/sitemap1.aspx" target="_blank">Sitemap</a></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./Welcome to Election Commission of India_files/eci_09.jpg" width="1000" height="48" alt=""></td>
+	</tr>
+</tbody></table>
+ 
+</td></tr>
+</tbody></table>
+ 
+<!--1st drop down menu -->                                                   
+<div id="dropmenu1" class="dropmenudiv">
+<a target="_blank" href="http://eci.nic.in/eci_main/ECI_voters_guideline_2006.pdf">A Guide For Voters</a>
+<a target="_self" href="http://eci.nic.in/eci_main1/forms_Voters.aspx">Related Application Forms</a>
+<a target="_self" href="http://eci.nic.in/eci_main1/eroll_epic_instructions.aspx">Instructions Related to Rolls &amp; EPIC</a>
+<a target="_blank" href="http://eci.nic.in/eci_main/ElectoralLaws/HandBooks/Compendium_of_Instructions_on_ERs_EPIC_SLA_Computerisation.pdf">Compendium of Related Instructions</a>
+<a target="_blank" href="http://eci.nic.in/eci_main/eroll&epic/ERoll2008.pdf">E-Roll Data-2008</a>
+<a target="_blank" href="http://eci.nic.in/eci_main/eroll&epic/ERoll2009.pdf">E-Roll Data-2009</a>
+<a target="_blank" href="http://eci.nic.in/eci_main/eroll&epic/ERoll2010.pdf">E-Roll Data-2010</a>
+<a target="_blank" href="http://eci.nic.in/eci_main/eroll&epic/ERoll2011.pdf">E-Roll Data-2011</a>
+<a target="_blank" href="http://eci.nic.in/eci_main/eroll&epic/ERoll2012.pdf">E-Roll Data-2012</a>
+
+<a target="_blank" href="http://eci.nic.in/eci_main/eroll&epic/ER_Schedule2012.pdf">Electoral Rolls Revision Schedule</a>
+<a target="_blank" href="http://eci.nic.in/eci_main1/current/Rule_49o.pdf">Option of not voting - Rule 49-o</a>
+</div>
+ 
+ 
+<!--2nd drop down menu -->                                                
+<div id="dropmenu2" class="dropmenudiv" style="height: auto; overflow: hidden; visibility: hidden; left: -1000px; top: -1000px;">
+<a href="http://eci.nic.in/eci_main1/judicialreferences.aspx">Office of Profit (Reference Cases)</a>
+<a href="http://eci.nic.in/eci_main1/modelcodeofconduct_noticies.aspx">Model Code of Conduct</a>
+<a href="http://eci.nic.in/eci_main1/miscellaneous_noticies.aspx">Miscellaneous</a>
+
+<a href="http://eci.nic.in/eci_main/ElectoralLaws/DisqualifiedPersons06032014.pdf" target="_blank">List of Disqualified Persons</a>
+<a href="http://eci.nic.in/eci_main/ElectoralLaws/DisqualifySupplymentryList_20032014.pdf" target="_blank">List of Disqualified Persons -Supplementary List</a>
+
+
+
+</div>
+ 
+<!--3rd drop down menu -->                                                   
+<div id="dropmenu3" class="dropmenudiv">
+<a href="http://eci.nic.in/eci_main1/election_comission.aspx">Election Commission</a>
+
+<a href="http://eci.nic.in/eci_main1/e-mailaddress-ceos.aspx">E-Mail Accounts - CEOs</a>
+</div>
+
+
+ <div id="dropmenu39" class="dropmenudiv">
+<a target="_blank" href="http://eci.nic.in/ECI_Main/CI_2013/FinalResult26022013.pdf">List of short-listed candidates for appointment as Computer Programmer </a>
+<a target="_blank" href="http://eci.nic.in/ECI_Main/CI_2013/wrt_result24022013.pdf">Recruitment of Computer Programmers – List of shortlisted candidates </a>
+
+</div>
+ 
+ 
+<!--3rd drop down menu_OF TOPBAR -->                                                   
+<div id="dropmenu4" class="dropmenudiv">
+<a href="http://eci.nic.in/eci_main1/the_setup.aspx">The Setup</a>
+<a href="http://eci.nic.in/eci_main1/the_function.aspx">The Functions(How the Electoral System operates?)</a>
+ 
+</div>
+ 
+<script type="text/javascript"> 
+cssdropdown.startchrome("chromemenu")
+</script>
+ <div id="mobile-site"></div>
+<script type="text/javascript">
+    if (/ip(hone|od)|android.*(mobile)|blackberry.*applewebkit/i.test(navigator.userAgent)) {
+        var backToMobile = document.createElement("div");
+        backToMobile.innerHTML = '<a href="#" onclick="document.cookie=\'mobify-path=;expires=Thu, 01 Jan 1970 00:00:01 GMT;path=/\';location.reload()">Mobile Site</a>';
+        document.getElementById("mobile-site").appendChild(backToMobile);
+    }
+</script>
+<!-- End Save for Web Slices -->
+
+<ul id="popmenu1_AboutECI" class="jqpopupmenu" style="display: none; visibility: visible; z-index: 1002; left: 313px; top: 114px;">
+<li><a href="http://eci.nic.in/eci_main1/the_setup.aspx">
+The Setup
+</a>
+	
+</li>
+<li><a href="http://eci.nic.in/eci_main1/the_function.aspx">The Functions (How the Electoral System operates?)</a>
+	
+</li>
+</ul><ul id="popmenu1_CitizenServices" class="jqpopupmenu" style="display: none; visibility: visible; z-index: 1000;">
+
+<li><a href="http://eci-citizenservices.nic.in/frmmobileverification.aspx?type=FORM6" target="_blank">Form 6 (Inclusion of names for residents electors) </a>
+	
+</li>
+
+<li><a href="http://eci-citizenservices.nic.in/frmmobileverification.aspx?type=FORM6A" target="_blank">Form 6A (Inclusion of names for overseas electors) </a>
+	
+</li>
+
+
+
+
+<li><a href="http://eci-citizenservices.nic.in/frmmobileverification.aspx?type=FORM7" target="_blank">Form 7 (Any objection on inclusion of names) </a>
+	
+</li>
+
+<li><a href="http://eci-citizenservices.nic.in/frmmobileverification.aspx?type=FORM8" target="_blank">Form 8 (Correction of entries in the Electoral Rolls) </a>
+	
+</li>
+
+<li><a href="http://eci-citizenservices.nic.in/frmmobileverification.aspx?type=FORM8A" target="_blank">Form 8A (Transposition within Assembly)</a>
+	
+</li>
+
+
+
+</ul><ul id="popmenu1_electors_corner" class="jqpopupmenu" style="display: none; visibility: visible; z-index: 1001; left: 360px; top: 243px;">
+
+<li><a href="http://eci.nic.in/eci_main1/Linkto_erollpdf.aspx">Link to PDF E-Rolls</a>
+	
+</li>
+
+	
+
+
+
+ <li><a href="http://eci.nic.in/eci_main1/Linkto_electo_search.aspx">Link to Voter search</a>
+	
+</li>
+
+ <li><a href="http://eci.nic.in/eci_main1/linkto_claimsobj.aspx">Link of claims &amp; objections</a>
+	
+</li>
+
+
+<li style="z-index: 1000;"><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">FAQs<img src="./Welcome to Election Commission of India_files/arrow.gif" class="rightarrowclass" style="border:0;"></a>
+	<ul style="display: none; visibility: visible;">
+	
+<li><a href="http://eci.nic.in/eci_main/GeneralElector2122013.pdf">Resident Electors</a>
+	
+</li>
+<li><a href="http://eci.nic.in/eci_main/nri/NRI_2122013.pdf" target="_blank">Overseas Electors</a>
+	
+</li>
+<li><a href="http://eci.nic.in/eci_main/ServiceVoter_2122013.pdf" target="_blank">Service Voters</a>
+	
+</li>
+	</ul>
+</li>
+<li><a href="http://eci.nic.in/eci_main/ECI_voters_guideline_2006.pdf" target="_blank">A Guide for Voters</a>
+ 
+ 
+ 
+	</li><li><a target="_self" href="http://eci.nic.in/eci_main1/forms_Voters.aspx">PDF Application Forms</a>
+                </li>
+
+
+<li><a href="http://eci.nic.in/eci_main1/nri.aspx">Overseas Electors</a>
+</li>
+
+<li><a target="_self" href="http://eci.nic.in/eci_main1/eroll_epic_instructions.aspx">Instructions Related to Rolls &amp; EPIC</a>
+ </li>
+          
+<li><a target="_blank" href="http://eci.nic.in/eci_main/ElectoralLaws/HandBooks/Compendium_of_Instructions_on_ERs_EPIC_SLA_Computerisation.pdf">2006 Compendium of Instructions</a>
+ </li>
+ 
+ <li><a href="http://eci.nic.in/eci_main/ElectoralLaws/HandBooks/ERO_HANDBOOK_2012.pdf" target="_blank">ERO Manual</a>
+</li>               
+          
+ <li><a href="http://eci.nic.in/eci_main/ElectoralLaws/HandBooks/Handbook_BLO.pdf" target="_blank">BLO Manual</a>
+</li>  
+ <li style="z-index: 1001;"><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Data Archive<img src="./Welcome to Election Commission of India_files/arrow.gif" class="rightarrowclass" style="border:0;"></a>
+
+<ul style="display: none; visibility: visible;">
+<li><a target="_blank" href="http://eci.nic.in/eci_main/eroll&epic/ERoll2008.pdf">E-Roll Data-2008</a>
+                </li>
+                
+                <li><a target="_blank" href="http://eci.nic.in/eci_main/eroll&epic/ERoll2009.pdf">E-Roll Data-2009</a>
+                </li>  
+                
+                <li><a target="_blank" href="http://eci.nic.in/eci_main/eroll&epic/ERoll2010.pdf">E-Roll Data-2010</a>
+                </li>
+                
+                <li><a target="_blank" href="http://eci.nic.in/eci_main/eroll&epic/ERoll2011.pdf">E-Roll Data-2011</a>
+                </li> 
+                
+                <li><a target="_blank" href="http://eci.nic.in/eci_main/eroll&epic/ERoll2012.pdf">E-Roll Data-2012</a>
+                </li>
+                
+                 <li><a target="_blank" href="http://eci.nic.in/eci_main/eroll&epic/ERoll2013.pdf">E-Roll Data-2013</a>
+                </li>
+                
+                <li><a target="_blank" href="http://eci.nic.in/eci_main/eroll&epic/ERoll2014.pdf">E-Roll Data-2014</a>
+                </li>
+                
+</ul>
+
+
+
+ </li>
+	            
+            
+</ul><ul id="popmenu1_citizens_corner" class="jqpopupmenu" style="display: none; visibility: visible; z-index: 1000;">
+<li><a href="http://eci.nic.in/eci_main1/editorial.aspx">Editorials</a>
+	
+</li>
+<li><a href="http://eci.nic.in/eci_main1/feedback.aspx">Feedback from People</a>
+	
+</li>
+<li><a href="http://eci.nic.in/eci_main1/media.aspx">Media Comments</a>
+	
+</li>
+ 
+</ul><ul id="popmenu1_past_elec" class="jqpopupmenu" style="display: none; visibility: visible; z-index: 1000;">
+
+
+<li><a href="http://eci.nic.in/eci_main1/ElectionStatistics.aspx">General Election Results &amp; Statistics</a>
+	
+</li>
+<li><a href="http://eci.nic.in/eci_main1/key_highlights.aspx">Key Highlights of General Election Results</a>
+</li><li><a href="http://eci.nic.in/eci_main1/archive_ge2009.aspx">GE-2009</a>
+	
+</li>
+	
+
+<li><a href="http://eci.nic.in/eci_main1/bye_election.aspx">Bye Election Results</a>
+	
+</li>
+<li><a href="http://eci.nic.in/eci_main1/election_maps.aspx">Constituency Maps</a>
+	
+</li>
+ 
+<li><a href="http://eci.nic.in/eci_main1/election_analysis.aspx">Election Analysis</a>
+	
+</li>
+<li><a href="http://eci.nic.in/eci_main1/misc-stats.aspx">Other Election Related Informations</a>
+	
+</li>
+<li><a href="http://eci.nic.in/archive/" target="_blank">Archive of Past Elections</a>
+	
+</li>
+
+ 
+<li><a href="http://eci.nic.in/eci_main1/AssemblyElection2009.aspx">Assembly Elections 2009</a>
+	
+</li>
+<li><a href="http://eci.nic.in/eci_main1/AssemblyElection2010.aspx">Assembly Elections 2010</a>
+
+</li><li><a href="http://eci.nic.in/eci_main/CurrentElections/eci2011.html">Assembly Elections 2011</a>
+	
+	</li>
+	
+<li style="z-index: 1000;">    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Assembly Elections 2012<img src="./Welcome to Election Commission of India_files/arrow.gif" class="rightarrowclass" style="border:0;"></a>
+	    <ul style="display: none; visibility: visible;">
+	    
+	    
+
+	        <li><a href="http://eci.nic.in/eci_main1/CurrentElection2012.html">Himachal Pradesh</a></li>
+	        <li><a href="http://eci.nic.in/eci_main1/CurrentElection2012_Guj.html">Gujarat</a></li>
+	        
+	       
+	        
+		    <li style="z-index: 1001;"><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">New Instructions<img src="./Welcome to Election Commission of India_files/arrow.gif" class="rightarrowclass" style="border:0;"></a>
+		
+		            <ul style="display: none; visibility: visible;">
+		                 
+	                        <li><a href="http://eci.nic.in/eci_main1/common_symbols.aspx">Order Related to Symbol Allottment</a>		</li>
+		                    <li><a href="http://eci.nic.in/eci_main1/ins_exp_mon.aspx">Instructions on Election Expenditure</a>		</li>
+		                    <li><a href="http://eci.nic.in/eci_main1/ins_others.aspx">Other Instructions</a></li>
+		                    <li style="z-index: 1002;"><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">State Specific Instructions<img src="./Welcome to Election Commission of India_files/arrow.gif" class="rightarrowclass" style="border:0;"></a>
+			            	        <ul style="display: none; visibility: visible;">
+				        		            <li><a href="http://eci.nic.in/eci_main1/ins_goa.aspx" target="_self">Goa</a></li>
+						                    <li><a href="http://eci.nic.in/eci_main1/ins_mr.aspx" target="_self">Manipur</a></li>
+						                    <li><a href="http://eci.nic.in/eci_main1/ins_pub.aspx" target="_self">Punjab</a></li>
+						                    <li><a href="http://eci.nic.in/eci_main1/ins_ut.aspx" target="_self">Uttrakhand</a></li>
+						                    <li><a href="http://eci.nic.in/eci_main1/ins_up.aspx" target="_self">Uttar Pradesh</a></li>
+				                    </ul>
+		                     </li>
+	               
+		        </ul>	
+		   </li><li style="z-index: 1003;"><a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Repoll<img src="./Welcome to Election Commission of India_files/arrow.gif" class="rightarrowclass" style="border:0;"></a>
+		
+		             <ul style="display: none; visibility: visible;">
+		               <li><a target="_blank" href="http://eci.nic.in/eci_main1/ge2012/ge2012repollmanipur.pdf">Manipur</a></li>
+	                     <li><a target="_blank" href="http://eci.nic.in/eci_main1/ge2012/ge2012repollpunjab.pdf">Punjab</a></li> 
+	                     <li><a target="_blank" href="http://eci.nic.in/eci_main1/ge2012/up_repoll.pdf">Uttar Pradesh</a></li>
+	                 </ul>
+		    </li>
+		    
+		<li><a href="http://eci.nic.in/eci_main1/ge2012.aspx">Current Elections</a></li>
+		
+		
+	</ul>
+</li>
+<li style="z-index: 1004;">    <a href="http://eci.nic.in/eci_main1/miscellaneous-photo-gallery.aspx#">Assembly Elections 2013<img src="./Welcome to Election Commission of India_files/arrow.gif" class="rightarrowclass" style="border:0;"></a>
+	    
+	    <ul style="display: none; visibility: visible;">
+	    <li><a href="http://eci.nic.in/eci_main1/CE2013_CG.html">Chhattisgarh</a></li>
+<li><a href="http://eci.nic.in/eci_main1/CE2013_MP.html">Madhya Pradesh</a></li>
+<li><a href="http://eci.nic.in/eci_main1/CE2013_Miz.html">Mizoram</a></li>
+<li><a href="http://eci.nic.in/eci_main1/CE2013_Delhi.html">NCT of Delhi</a></li>
+<li><a href="http://eci.nic.in/eci_main1/CE2013_Raj.html">Rajasthan</a></li>
+	    <li><a href="http://eci.nic.in/eci_main1/CurrentElection2013_KR.html">Karnataka</a></li>
+	    <li><a href="http://eci.nic.in/eci_main1/CurrentElection2013_TR.html">Tripura</a></li>
+        <li><a href="http://eci.nic.in/eci_main1/CurrentElection2013_NGL.html">Nagaland</a></li>
+        <li><a href="http://eci.nic.in/eci_main1/CurrentElection2013_MGL.html">Meghalaya</a></li>
+
+	   
+	   	</ul>
+</li>
+
+	<li><a target="_self" href="http://eci.nic.in/eci_main1/presi_elec2012.aspx">Presidential &amp; Vice-Presidential Election 2012</a></li>
+	
+	
+</ul><ul id="popmenu1_Affi_form20" class="jqpopupmenu" style="display: none; visibility: visible; z-index: 1000;">
+<li><a href="http://eci.nic.in/eci_main1/LinktoForm20.aspx">Link to Form 20</a>
+
+</li><li><a href="http://eci.nic.in/eci_main1/LinktoAffidavits.aspx">Link to Candidate Affidavits</a>
+
+</li></ul><ul id="popmenu1_Elec_Laws" class="jqpopupmenu" style="display: none; visibility: visible; z-index: 1000;">
+<li><a target="_self" href="http://eci.nic.in/eci_main1/recent_instructions.aspx">Important Instructions</a>
+	
+</li>
+<li><a href="http://eci.nic.in/eci_main1/electoral_law.aspx">Election Laws</a>
+	
+</li>
+<li><a href="http://eci.nic.in/eci_main1/press_release2013.aspx">ECI Press Releases</a>
+	
+</li>
+
+	
+
+<li><a target="blank" href="http://eci.nic.in/eci_main/CurrentElections/Table-MCC.pdf">Law Relating to Offences and Corrupt Practices</a>
+	
+</li>
+<li><a target="blank" href="http://eci.nic.in/eci_main/PROPOSED_ELECTORAL_REFORMS.pdf">Proposed Election Reforms</a>
+	
+</li>
+<li><a href="http://eci.nic.in/eci_main1/electoral_law.aspx">Compendium of Instructions for Conduct of Elections
+</a>	
+</li>
+
+<li><a href="http://eci.nic.in/eci_main1/current/CandidateHandbook2014_19032014.pdf" target="_blank">Handbook for Candidates
+</a>	
+</li>
+ 
+</ul><ul id="popmenu1_ByeElec" class="jqpopupmenu" style="display: none; visibility: visible; z-index: 1000;">
+ 
+ 
+ 
+    
+
+
+
+
+<li> <a href="http://eci.nic.in/eci_main1/ByeElec2014/ByeElecUkd.html" target="_blank"> Uttrakhand</a>
+
+</li>
+
+
+<li><a href="http://eci.nic.in/eci_main1/bye_elec_results_2013.html" target="_self"><b>Result</b></a></li>	
+	  
+
+
+
+
+	</ul></body></html>
